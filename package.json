@@ -1,0 +1,19 @@
+{
+  "name": "@nnzo/buffapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nnzo/buffapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nnzo/buffapi/issues"
+  },
+  "homepage": "https://github.com/nnzo/buffapi#readme"
+}
